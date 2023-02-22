@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Gato de Botas 2 - O Último Pedido (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i0tScFVNCcgDzz9AgjYd3LDXGTO.jpg" group-title="LANÇAMENTOS",Gato de Botas 2 - O Último Pedido (2022)
+https://www.terabox.com/api/streaming?path=%2Fgatodebotas2.mp4&app_id=250528&clienttype=0&type=M3U8_FLV_264_480&vip=0
